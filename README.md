@@ -4,5 +4,7 @@
   * Python
   * PySpark
   * AWS GLUE
+  * AWS S3
+  * Crawlers
  
-for more details check out medium my blog: https://rajansahu713.medium.com/build-your-own-customized-etl-jobs-on-aws-glue-using-python-7663454cc8e2
+for more details check out my medium blog: https://rajansahu713.medium.com/build-your-own-customized-etl-jobs-on-aws-glue-using-python-7663454cc8e2
